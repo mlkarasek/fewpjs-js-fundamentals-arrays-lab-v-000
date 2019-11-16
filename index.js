@@ -1,4 +1,4 @@
 // Write your solution here!
-const animalPairs = ["Milo", "Otis", "Garfield"]
+const pets = ["Milo", "Otis", "Garfield"]
 
-animalPairs.push("Odie"); 
+pets.push("Odie"); 
