@@ -1,4 +1,4 @@
 // Write your solution here!
-const pets = ["Milo", "Otis", "Garfield"]
+const sinon = ["Milo", "Otis", "Garfield"]
 
-pets.push("Odie"); 
+sinon.push("Odie"); 
