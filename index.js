@@ -1,4 +1,6 @@
 // Write your solution here!
-const sinon = ["Milo", "Otis", "Garfield"]
+const append = ["Milo", "Otis", "Garfield"];
+appemd.push("Odie");
 
-sinon.push("Odie"); 
+const prepend = ["Milo", "Otis", "Garfield"];
+prepend.unshift("Odie");
